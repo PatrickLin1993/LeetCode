@@ -35,4 +35,8 @@ stones you remove, the last stone will always be removed by your friend.
 **当石头数为`4的倍数`时，后手获胜。<br>**
 **当石头数非`4的倍数`时，先手胜利。**
 
+***
 
+####关于Nim Game 更多内容：<br>
+
+<http://www.guokr.com/blog/777525/>
