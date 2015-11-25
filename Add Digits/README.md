@@ -13,24 +13,24 @@ Could you do it without any loop/recursion in O(1) runtime?
 
 ####先计算，看是否有规律：
 
-
 Number|1|2|3|4|5|6|7|8|9
------|------
+------|---|---|---|---|----|----|----|---|---
 Digit Root|1|2|3|4|5|6|7|8|9
-
 
 Number|10|11|12|13|14|15|16|17|18
------|------
-Digit Root|1|2|3|4|5|6|7|8|9
+------|---|---|---|---|---|---|---|---|---
+|Digit Root|1|2|3|4|5|6|7|8|9
 
 
 Number|19|20|21|22|23|24|25|26|27
------|------
+------|---|---|---|---|---|---|---|---|---
 Digit Root|1|2|3|4|5|6|7|8|9
 
 ####不难发现:<br>
 
->Number 以 9 为周期，分别得到 1-9 的 Digit Root。
+```
+Number 以 9 为周期，分别得到 1-9 的 Digit Root。
+```
 
 ####根据规律得计算公式:
 
@@ -45,4 +45,3 @@ Digit Root|1|2|3|4|5|6|7|8|9
 [wikipedia](https://en.wikipedia.org/wiki/Digital_root)
 
 <https://en.wikipedia.org/wiki/Digital_root>
-
