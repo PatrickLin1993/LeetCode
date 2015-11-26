@@ -9,3 +9,4 @@
 |Delete Node in a Linked List|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Delete%20Node%20in%20a%20Linked%20List)|
 |Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Move%20Zeroes)|
 |Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Same%20Tree)|
+|Invert Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Invert%20Binary%20Tree)|
