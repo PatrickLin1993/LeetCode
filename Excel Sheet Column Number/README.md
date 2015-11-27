@@ -33,4 +33,4 @@
 
 ####Excel Sheet Column Ttile:
 
-[Excel Sheet Column Title](https://github.com/PatrickLin1993/LeetCode/tree/master/Excel%20Sheet%20Column%20Tile)
+[Excel Sheet Column Title](https://github.com/PatrickLin1993/LeetCode/tree/master/Excel%20Sheet%20Column%20Title)
