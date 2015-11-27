@@ -13,3 +13,4 @@
 |Valid Anagram|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Valid%20Anagram)|
 |Excel Sheet Column Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Excel%20Sheet%20Column%20Number)|
 |Excel Sheet Column Title|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Excel%20Sheet%20Column%20Title)|
+|Majority Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Majority%20Element)|
