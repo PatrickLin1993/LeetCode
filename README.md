@@ -10,3 +10,4 @@
 |Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Move%20Zeroes)|
 |Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Same%20Tree)|
 |Invert Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Invert%20Binary%20Tree)|
+|Valid Anagram|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Valid%20Anagram)|
