@@ -11,3 +11,5 @@
 |Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Same%20Tree)|
 |Invert Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Invert%20Binary%20Tree)|
 |Valid Anagram|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Valid%20Anagram)|
+|Excel Sheet Column Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Excel%20Sheet%20Column%20Number)|
+|Excel Sheet Column Title|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Excel%20Sheet%20Column%20Title)|
