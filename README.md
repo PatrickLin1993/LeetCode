@@ -16,3 +16,5 @@
 |Majority Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Majority%20Element)|
 |Lowest Common Ancestor of a Binary Search Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|
 |Contains Duplicate|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Contains%20Duplicate)|
+|Number of 1 Bits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Number%20of%201%20Bits)|
+
