@@ -21,9 +21,8 @@ For example, the lowest common ancestor (LCA) of nodes 2 and 8 is 6. Another exa
 ###solution:
 
 ####solution 1:
-`
-利用递归遍历整颗二叉树,知道得到最近的 root
-`
+
+>利用递归遍历整颗二叉树,知道得到最近的 root
 
 ```
 由 root 开始分别递归搜索其左右子树，遇见 p 或 q 则立即返回，否则返回为空。
@@ -35,9 +34,8 @@ b) 若同在左或右子树，那么先返回的左右子树纪录的节点就�
 ```
 
 ####solution 2:
-`
-由于该二叉树的特点 ：从树的左往右看，数值依次增大。 
-`
+
+>由于该二叉树的特点 ：从树的左往右看，数值依次增大。 
 
 ```
 那么我们根据此特点，从根节点开始寻找第一个遇到的介于两者之间的值的节点必为两者的 lowest common ancestor。

@@ -15,3 +15,4 @@
 |Excel Sheet Column Title|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Excel%20Sheet%20Column%20Title)|
 |Majority Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Majority%20Element)|
 |Lowest Common Ancestor of a Binary Search Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|
+|Contains Duplicate|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Contains%20Duplicate)|
