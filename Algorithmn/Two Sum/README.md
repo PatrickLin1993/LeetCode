@@ -35,7 +35,7 @@ The return format had been changed to zero-based indices. Please read the above 
 5. 循环判断：左右指针指向值的和，若大于`target`则右指针左移，若小于`target`则左指针右移，否则退出循环。
 6. 返回左右指针的下标序号
 
-[solution1.cpp](https://github.com/PatrickLin1993/LeetCode/tree/master/Two%20Sum/solution1.cpp)
+[solution1.cpp](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Two%20Sum/solution1.cpp)
 
 ####solution 2
 
@@ -52,4 +52,4 @@ The return format had been changed to zero-based indices. Please read the above 
 5. 返回 步骤 2.
 6. 返回当前遍历数据的索引号 `index` 和 `target-i` 数据的索引号
 
-[solution2.cpp](https://github.com/PatrickLin1993/LeetCode/tree/master/Two%20Sum/solution2.cpp)
+[solution2.cpp](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Two%20Sum/solution2.cpp)
