@@ -6,6 +6,7 @@
 |1|Two Sum|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Two%20Sum)|
 |100|Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Same%20Tree)|
 |104|Maximum Depth of Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Maximum%20Depth%20of%20Binary%20Tree)|
+|136|Single Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/136%20-%20Single%Number)|
 |168|Excel Sheet Column Title|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Excel%20Sheet%20Column%20Title)|
 |169|Majority Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Majority%20Element)|
 |171|Excel Sheet Column Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Excel%20Sheet%20Column%20Number)|
@@ -15,7 +16,7 @@
 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|
 |237|Delete Node in a Linked List|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Delete%20Node%20in%20a%20Linked%20List)|
 |242|Valid Anagram|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Valid%20Anagram)|
-|258|Add Digits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Add%20Digits)|
+|258|Add Digits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/258%20-%20Algorithmn/Add%20Digits)|
 |283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Move%20Zeroes)|
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
 |344|Reverse String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/344%20-%20Reverse%20String)|
