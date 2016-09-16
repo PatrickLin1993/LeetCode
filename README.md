@@ -19,7 +19,7 @@
 |283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Move%20Zeroes)|
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
 |344|Reverse String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/344%20-%20Reverse%20String)|
-
+|371|Sum Of Two Integers|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/371%20-%20Two%20Sum%20Of%20Integers)|
 
 
 
