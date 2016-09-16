@@ -5,7 +5,7 @@ Write a function that takes a string as input and returns the string reversed.
 Example:
 Given s = "hello", return "olleh".
 
-##solution:
+##solution
 
 ####solution 1:
 最简单的从末尾开始遍历，创建新`String`。

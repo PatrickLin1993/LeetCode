@@ -10,7 +10,7 @@ you can win the game given the number of stones in the heap.
 For example, if there are 4 stones in the heap, then you will never win the game: no matter 1, 2, or 3 
 stones you remove, the last stone will always be removed by your friend.
 
-##Solution:
+##Solution
 石头数|胜利者
 -----|------
 1-3|win
@@ -23,12 +23,9 @@ stones you remove, the last stone will always be removed by your friend.
 其中不难发现，`win` 和 `lost` 以 4 为周期循环更替。周期前 3 个数为 `win`，第 4 个数为 `lost`
 
 ```cpp
-class Solution {
-public:
-    bool canWinNim(int n) {
-        return n % 4 != 0;
-    }
-};
+bool canWinNim(int n) {
+    return n % 4 != 0;
+}
 ```
 
 ###Nim 加法：
@@ -46,14 +43,11 @@ public:
 所以结论就是，进行`Nim 加法`（异或），若和不为 0 先手者存在必胜策略，反之则后手者存在必胜策略。
 
 ```cpp
-class Solution {
-public:
-    bool canWinNim(const int* stone, const int count){
-        int n = 0;
-        for (int i = 0; i < count; i++) {
-            n ^= stone[i];
-        }
-        return n != 0;
+bool canWinNim(const int* stone, const int count){
+    int n = 0;
+    for (int i = 0; i < count; i++) {
+        n ^= stone[i];
     }
-};
+    return n != 0;
+}
 ```
