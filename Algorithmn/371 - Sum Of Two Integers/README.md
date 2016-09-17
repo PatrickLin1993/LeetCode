@@ -5,7 +5,7 @@ Calculate the sum of two integers a and b, but you are not allowed to use the op
 Example:
 Given a = 1 and b = 2, return 3.
 
-##solution
+##Solution
 
 我们知道，二进制只有 0 和 1 两个数字，那么两数相加只有三种情况，要么`0 + 0`，要么`1 + 0`，要么`1 + 1`。
 
