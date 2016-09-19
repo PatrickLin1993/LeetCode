@@ -17,7 +17,7 @@
 |237|Delete Node in a Linked List|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Delete%20Node%20in%20a%20Linked%20List)|
 |242|Valid Anagram|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Valid%20Anagram)|
 |258|Add Digits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/258%20-%20Add%20Digits)|
-|283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Move%20Zeroes)|
+|283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/283%20-%20Move%20Zeroes)|
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
 |344|Reverse String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/344%20-%20Reverse%20String)|
 |371|Sum Of Two Integers|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/371%20-%20Sum%20Of%20Two%20Integers)|
