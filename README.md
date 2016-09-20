@@ -20,6 +20,7 @@
 |283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/283%20-%20Move%20Zeroes)|
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
 |344|Reverse String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/344%20-%20Reverse%20String)|
+|349|Intersection of Two Arrays|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/349%20-%20Intersection%20of%20Two%20Arrays)|
 |371|Sum Of Two Integers|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/371%20-%20Sum%20Of%20Two%20Integers)|
 |389|Find The Difference|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/389%20-%20Find%20The%20Difference)|
 
