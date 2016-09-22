@@ -23,6 +23,7 @@
 |349|Intersection of Two Arrays|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/349%20-%20Intersection%20of%20Two%20Arrays)|
 |371|Sum Of Two Integers|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/371%20-%20Sum%20Of%20Two%20Integers)|
 |389|Find The Difference|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/389%20-%20Find%20The%20Difference)|
+|401|Binary Watch|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/401%20-%20Binary%20Watch)|
 
 
 
