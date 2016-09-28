@@ -7,9 +7,9 @@
 |100|Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/100%20-%20Same%20Tree)|
 |104|Maximum Depth of Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/104%20-%20Maximum%20Depth%20of%20Binary%20Tree)|
 |136|Single Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/136%20-%20Single%20Number)|
-|168|Excel Sheet Column Title|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Excel%20Sheet%20Column%20Title)|
+|168|Excel Sheet Column Title|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/168%20-%20Excel%20Sheet%20Column%20Title)|
 |169|Majority Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/169%20-%20Majority%20Element)|
-|171|Excel Sheet Column Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Excel%20Sheet%20Column%20Number)|
+|171|Excel Sheet Column Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/171%20-%20Excel%20Sheet%20Column%20Number)|
 |191|Number of 1 Bits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/191%20-%20Number%20of%201%20Bits)|
 |217|Contains Duplicate|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Contains%20Duplicate)|
 |226|Invert Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/226%20-%20Invert%20Binary%20Tree)|
