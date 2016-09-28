@@ -31,4 +31,4 @@ int titleToNumber(string s) {
 
 ####Excel Sheet Column Ttile:
 
-[Excel Sheet Column Title](https://github.com/PatrickLin1993/LeetCode/tree/master/168%20-%20Excel%20Sheet%20Column%20Title)
+[Excel Sheet Column Title](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/168%20-%20Excel%20Sheet%20Column%20Title)

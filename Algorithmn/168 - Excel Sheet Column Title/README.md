@@ -48,4 +48,4 @@ string convertToTitle(int n) {
 
 ####Excel Sheet Column Number:
 
-[Excel Sheet Column Number](https://github.com/PatrickLin1993/LeetCode/tree/master/171%20-%20Excel%20Sheet%20Column%20Number)
+[Excel Sheet Column Number](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/171%20-%20Excel%20Sheet%20Column%20Number)
