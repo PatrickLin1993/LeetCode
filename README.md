@@ -15,7 +15,7 @@
 |226|Invert Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/226%20-%20Invert%20Binary%20Tree)|
 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|
 |237|Delete Node in a Linked List|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/237%20-%20Delete%20Node%20in%20a%20Linked%20List)|
-|242|Valid Anagram|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Valid%20Anagram)|
+|242|Valid Anagram|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/242%20-%20Valid%20Anagram)|
 |258|Add Digits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/258%20-%20Add%20Digits)|
 |283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/283%20-%20Move%20Zeroes)|
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
