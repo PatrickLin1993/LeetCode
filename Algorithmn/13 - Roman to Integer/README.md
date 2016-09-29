@@ -6,6 +6,8 @@ Input is guaranteed to be within the range from 1 to 3999.
 
 ##Solution
 
+罗马数字的 Wiki ： [About : Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals) 
+
 利用一个临时变量，记录上一个罗马数字值。
 
 ```cpp
