@@ -22,7 +22,7 @@
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
 |344|Reverse String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/344%20-%20Reverse%20String)|
 |349|Intersection of Two Arrays|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/349%20-%20Intersection%20of%20Two%20Arrays)|
-|350|Intersection of Two Arrays II|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/349%20-%20Intersection%20of%20Two%20Arrays%20II)|
+|350|Intersection of Two Arrays II|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/350%20-%20Intersection%20of%20Two%20Arrays%20II)|
 |371|Sum Of Two Integers|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/371%20-%20Sum%20Of%20Two%20Integers)|
 |387|First Unique Character in a String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/387%20-%20First%20Unique%20Character%20in%20a%20String)|
 |389|Find The Difference|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/389%20-%20Find%20The%20Difference)|
