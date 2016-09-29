@@ -15,7 +15,7 @@ The result can be in any order.
 
 ####solution 1:
 
-使用无序容器 `unorder_set`，时间复杂度为 O(n)。
+使用无序容器 `unorder_set`，时间复杂度为 O(n + m)。
 
 ```cpp
 vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
@@ -33,7 +33,7 @@ vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
 
 ####solution 2:
 
-先进行排序，然后创建两个指针分别指向两个 `vector` 进行比较。时间复杂度为 O(nlogn)。
+先进行排序，然后创建两个指针分别指向两个 `vector` 进行比较。时间复杂度为 O(max(n, m) log max(n, m))。
 
 ```cpp
 vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
