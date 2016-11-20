@@ -6,6 +6,7 @@
 |1|Two Sum|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Two%20Sum)|
 |2|Add Two Numbers|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/2%20-%20Add%20Two%20Numbers)|
 |13|Roman to Integer|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/13%20-%20Roman%20to%20Integer)|
+|21|Merge Two Sorted Lists|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/21%20-%20Merge%20Two%20Sorted%20Lists)|
 |100|Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/100%20-%20Same%20Tree)|
 |104|Maximum Depth of Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/104%20-%20Maximum%20Depth%20of%20Binary%20Tree)|
 |136|Single Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/136%20-%20Single%20Number)|
