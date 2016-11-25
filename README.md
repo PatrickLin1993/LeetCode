@@ -25,6 +25,7 @@
 |258|Add Digits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/258%20-%20Add%20Digits)|
 |283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/283%20-%20Move%20Zeroes)|
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
+|342|Power of Four|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/342%20-%20Power%20of%20Four)|
 |344|Reverse String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/344%20-%20Reverse%20String)|
 |349|Intersection of Two Arrays|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/349%20-%20Intersection%20of%20Two%20Arrays)|
 |350|Intersection of Two Arrays II|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/350%20-%20Intersection%20of%20Two%20Arrays%20II)|
