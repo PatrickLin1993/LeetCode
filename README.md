@@ -15,6 +15,7 @@
 |169|Majority Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/169%20-%20Majority%20Element)|
 |171|Excel Sheet Column Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/171%20-%20Excel%20Sheet%20Column%20Number)|
 |191|Number of 1 Bits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/191%20-%20Number%20of%201%20Bits)|
+|198|House Robber|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/198%20-%20House%20Robber)|
 |206|Reverse Linked List|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/206%20-%20Reverse%20Linked%20List)|
 |217|Contains Duplicate|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/217%20-%20Contains%20Duplicate)|
 |226|Invert Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/226%20-%20Invert%20Binary%20Tree)|
