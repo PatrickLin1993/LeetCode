@@ -28,6 +28,7 @@
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
 |342|Power of Four|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/342%20-%20Power%20of%20Four)|
 |344|Reverse String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/344%20-%20Reverse%20String)|
+|345|Reverse Vowels of a String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/345%20-%20Reverse%20Vowels%20of%20a%20String)|
 |349|Intersection of Two Arrays|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/349%20-%20Intersection%20of%20Two%20Arrays)|
 |350|Intersection of Two Arrays II|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/350%20-%20Intersection%20of%20Two%20Arrays%20II)|
 |371|Sum Of Two Integers|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/371%20-%20Sum%20Of%20Two%20Integers)|
