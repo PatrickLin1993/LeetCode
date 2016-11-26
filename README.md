@@ -9,6 +9,7 @@
 |21|Merge Two Sorted Lists|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/21%20-%20Merge%20Two%20Sorted%20Lists)|
 |24|Swap Nodes in Pairs|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/24%20-%20Swap%20Nodes%20in%20Pairs)|
 |100|Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/100%20-%20Same%20Tree)|
+|101|Symmetric Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/101%20-%20Symmetric%20Tree)|
 |104|Maximum Depth of Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/104%20-%20Maximum%20Depth%20of%20Binary%20Tree)|
 |107|Binary Tree Level Order Traversal II|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II)|
 |136|Single Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/136%20-%20Single%20Number)|
