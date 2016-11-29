@@ -12,6 +12,7 @@
 |66|Plus One|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/66%20-%20Plus%20One)|
 |100|Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/100%20-%20Same%20Tree)|
 |101|Symmetric Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/101%20-%20Symmetric%20Tree)|
+|102|Binary Tree Level Order Traversal|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/102%20-%20Binary%20Tree%20Level%20Order%20Traversal)|
 |104|Maximum Depth of Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/104%20-%20Maximum%20Depth%20of%20Binary%20Tree)|
 |107|Binary Tree Level Order Traversal II|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II)|
 |136|Single Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/136%20-%20Single%20Number)|
