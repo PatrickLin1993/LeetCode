@@ -15,6 +15,7 @@
 |102|Binary Tree Level Order Traversal|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/102%20-%20Binary%20Tree%20Level%20Order%20Traversal)|
 |104|Maximum Depth of Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/104%20-%20Maximum%20Depth%20of%20Binary%20Tree)|
 |107|Binary Tree Level Order Traversal II|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II)|
+|118|Pascal's Triangle|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/118%20-%20Pascal's%20Triangle)|
 |136|Single Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/136%20-%20Single%20Number)|
 |168|Excel Sheet Column Title|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/168%20-%20Excel%20Sheet%20Column%20Title)|
 |169|Majority Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/169%20-%20Majority%20Element)|
