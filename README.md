@@ -5,7 +5,7 @@
 |---|-----|----------|----|
 |1|Two Sum|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Two%20Sum)|
 |2|Add Two Numbers|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/2%20-%20Add%20Two%20Numbers)|
-|8|String to Integer(atoi)|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/8%20-%20String%20to%20Integer(atoi))|
+|8|String to Integer(atoi)|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/8%20-%20String%20to%20Integer(atoi))|
 |13|Roman to Integer|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/13%20-%20Roman%20to%20Integer)|
 |21|Merge Two Sorted Lists|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/21%20-%20Merge%20Two%20Sorted%20Lists)|
 |24|Swap Nodes in Pairs|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/24%20-%20Swap%20Nodes%20in%20Pairs)|
