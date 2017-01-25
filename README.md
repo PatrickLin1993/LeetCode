@@ -9,6 +9,7 @@
 |13|Roman to Integer|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/13%20-%20Roman%20to%20Integer)|
 |21|Merge Two Sorted Lists|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/21%20-%20Merge%20Two%20Sorted%20Lists)|
 |24|Swap Nodes in Pairs|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/24%20-%20Swap%20Nodes%20in%20Pairs)|
+|26|Remove Duplicates from Sorted Array|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/26%20-%20Remove%20Duplicates%20from%20Sorted%20Array)|
 |27|Remove Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/27%20-%20Remove%20Element)|
 |66|Plus One|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/66%20-%20Plus%20One)|
 |100|Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/100%20-%20Same%20Tree)|
