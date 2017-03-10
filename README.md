@@ -44,6 +44,7 @@
 |389|Find The Difference|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/389%20-%20Find%20The%20Difference)|
 |401|Binary Watch|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/401%20-%20Binary%20Watch)|
 |415|Add Strings|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/415%20-%20Add%20Strings)|
+|434|Number of Segments in a String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/434%20-%20Number%20of%20Segments%20in%20a%20String)|
 |441|Arranging Coins|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/441%20-%20Arranging%20Coins)|
 
 
