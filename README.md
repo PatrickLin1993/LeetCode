@@ -5,7 +5,7 @@
 |---|-----|----------|----|
 |1|Two Sum|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Two%20Sum)|
 |2|Add Two Numbers|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/2%20-%20Add%20Two%20Numbers)|
-|8|String to Integer(atoi)|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/8%20-%20String%20to%20Integer(atoi))|
+|8|String to Integer(atoi)|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/8%20-%20String%20to%20Integer(atoi)|
 |13|Roman to Integer|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/13%20-%20Roman%20to%20Integer)|
 |21|Merge Two Sorted Lists|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/21%20-%20Merge%20Two%20Sorted%20Lists)|
 |24|Swap Nodes in Pairs|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/24%20-%20Swap%20Nodes%20in%20Pairs)|
@@ -32,6 +32,7 @@
 |237|Delete Node in a Linked List|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/237%20-%20Delete%20Node%20in%20a%20Linked%20List)|
 |242|Valid Anagram|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/242%20-%20Valid%20Anagram)|
 |258|Add Digits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/258%20-%20Add%20Digits)|
+|279|Perfect Squares|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/279%20-%20Perfect%20Squares)|
 |283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/283%20-%20Move%20Zeroes)|
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
 |342|Power of Four|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/342%20-%20Power%20of%20Four)|
