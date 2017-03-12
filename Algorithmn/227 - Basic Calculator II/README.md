@@ -16,7 +16,7 @@ Some examples:
 
 ##Solution:
 
-####Solution 1:
+####Solution 1: 13mm
 通过堆栈，处理乘除法，而加减法则压栈。
 ```cpp
 int calculate(string s) {
@@ -51,7 +51,7 @@ int calculate(string s) {
 }
 
 ```
-####Solution 2:
+####Solution 2: 19mm
 利用 `istringstream` 处理字符串。
 ```cpp
 int calculate(string s) {
