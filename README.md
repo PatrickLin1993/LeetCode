@@ -37,6 +37,7 @@
 |279|Perfect Squares|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/279%20-%20Perfect%20Squares)|
 |283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/283%20-%20Move%20Zeroes)|
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
+|319|Bulb Switcher|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/319%20-%20Bulb%20Switcher)|
 |342|Power of Four|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/342%20-%20Power%20of%20Four)|
 |344|Reverse String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/344%20-%20Reverse%20String)|
 |345|Reverse Vowels of a String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/345%20-%20Reverse%20Vowels%20of%20a%20String)|
