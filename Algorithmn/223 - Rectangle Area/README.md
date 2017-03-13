@@ -4,7 +4,7 @@ Find the total area covered by two rectilinear rectangles in a 2D plane.
 
 Each rectangle is defined by its bottom left corner and top right corner as shown in the figure.
 
-![](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/223%20-%20rectangle_area)
+![](https://github.com/PatrickLin1993/LeetCode/blob/master/Algorithmn/223%20-%20Rectangle%20Area/rectangle_area.png)
 
 Assume that the total area is never beyond the maximum possible value of int.
 
