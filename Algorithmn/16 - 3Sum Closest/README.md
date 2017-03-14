@@ -9,7 +9,7 @@ The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 ```
 
 ##Solution
-排序，然后遍历，设置两个指标，当比 target 小则左标右移， 比 target 大则右标左移。
+排序，然后遍历，设置两个指标，当比 target 小则左标右移， 比 target 大则右标左移。 O(n)
 ```cpp
 int threeSumClosest(vector<int>& nums, int target) {
 	int size = nums.size(), gap = 0x7fffffff, sum;
