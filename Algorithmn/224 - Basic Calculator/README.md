@@ -15,6 +15,7 @@ Some examples:
 **Note: Do not** use the eval built-in library function.
 
 ##Solution:
+
 因为只有加减法，所以可以从左到右计算过去，碰到括号就将符号堆栈，然后符号两两作用得出最后符号。如下：
 
 |符号A|符号B| 结果 |
