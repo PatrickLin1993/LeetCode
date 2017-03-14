@@ -23,7 +23,7 @@ Note:
 * The minute must be consist of two digits and may contain a leading zero, for example "10:2" is not valid, it should be "10:02".
 
 ##Solution
-
+####Solution 1:
 穷举，再利用 [191 － Number of 1 Bits](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/191%20-%20Number%20of%201%20Bits) 计算出该时间表示具有的 `1` 的个数。
 
 ```cpp
@@ -51,7 +51,7 @@ vector<string> readBinaryWatch(int num) {
     return vec;
 }
 ```
-
+####Solution 2:
 当然，计算该时间表示的 `1` 的个数也可以改为：
 
 ```cpp

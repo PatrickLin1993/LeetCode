@@ -37,6 +37,7 @@
 |258|Add Digits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/258%20-%20Add%20Digits)|
 |279|Perfect Squares|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/279%20-%20Perfect%20Squares)|
 |283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/283%20-%20Move%20Zeroes)|
+|290|Word Pattern|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/290%20-%20Word%20Pattern)|
 |292|Nim Game|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/292%20-%20Nim%20Game)|
 |319|Bulb Switcher|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/319%20-%20Bulb%20Switcher)|
 |342|Power of Four|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/342%20-%20Power%20of%20Four)|
