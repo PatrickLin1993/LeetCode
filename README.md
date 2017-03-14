@@ -29,6 +29,7 @@
 |206|Reverse Linked List|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/206%20-%20Reverse%20Linked%20List)|
 |217|Contains Duplicate|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/217%20-%20Contains%20Duplicate)|
 |223|Rectangle Area|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/223%20-%20Rectangle%20Area)|
+|224|Basic Calculator|Hard|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/224%20-%20Basic%20Calculator)|
 |226|Invert Binary Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/226%20-%20Invert%20Binary%20Tree)|
 |227|Basic Calculator II|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/227%20-%20Basic%20Calculator%20II)|
 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|
