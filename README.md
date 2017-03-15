@@ -13,6 +13,7 @@
 |26|Remove Duplicates from Sorted Array|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/26%20-%20Remove%20Duplicates%20from%20Sorted%20Array)|
 |27|Remove Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/27%20-%20Remove%20Element)|
 |66|Plus One|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/66%20-%20Plus%20One)|
+|89|Gray Code|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/89%20-%20Gray%20Code)|
 |100|Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/100%20-%20Same%20Tree)|
 |101|Symmetric Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/101%20-%20Symmetric%20Tree)|
 |102|Binary Tree Level Order Traversal|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/102%20-%20Binary%20Tree%20Level%20Order%20Traversal)|
