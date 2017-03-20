@@ -12,7 +12,10 @@
 |24|Swap Nodes in Pairs|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/24%20-%20Swap%20Nodes%20in%20Pairs)|
 |26|Remove Duplicates from Sorted Array|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/26%20-%20Remove%20Duplicates%20from%20Sorted%20Array)|
 |27|Remove Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/27%20-%20Remove%20Element)|
+|33|Search in Rotated Sorted Array|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/33%20-%20Search%20in%20Rotated%20Sorted%20Array)|
+|35|Search Insert Position|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/35%20-%20Search%20Insert%20Position)|
 |66|Plus One|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/66%20-%20Plus%20One)|
+|81|Search in Rotated Sorted Array II|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/66%20-%20Search%20in%20Rotated%20Sorted%20Array%20II)|
 |89|Gray Code|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/89%20-%20Gray%20Code)|
 |100|Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/100%20-%20Same%20Tree)|
 |101|Symmetric Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/101%20-%20Symmetric%20Tree)|
