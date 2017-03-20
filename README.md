@@ -15,6 +15,7 @@
 |33|Search in Rotated Sorted Array|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/33%20-%20Search%20in%20Rotated%20Sorted%20Array)|
 |35|Search Insert Position|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/35%20-%20Search%20Insert%20Position)|
 |66|Plus One|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/66%20-%20Plus%20One)|
+|69|Sqrt(x)|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/69%20-%20Sqrt(x))|
 |81|Search in Rotated Sorted Array II|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/81-%20Search%20in%20Rotated%20Sorted%20Array%20II)|
 |89|Gray Code|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/89%20-%20Gray%20Code)|
 |100|Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/100%20-%20Same%20Tree)|
@@ -57,6 +58,7 @@
 |401|Binary Watch|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/401%20-%20Binary%20Watch)|
 |415|Add Strings|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/415%20-%20Add%20Strings)|
 |434|Number of Segments in a String|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/434%20-%20Number%20of%20Segments%20in%20a%20String)|
+|436|Find Right Interval|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/436%20-%20Find%20Right%20Interval)|
 |441|Arranging Coins|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/441%20-%20Arranging%20Coins)|
 |462|Minimum Moves to Equal Array Elements II|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/462%20-%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II)|
 
