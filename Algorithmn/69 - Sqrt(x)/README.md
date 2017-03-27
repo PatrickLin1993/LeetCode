@@ -10,18 +10,22 @@ Compute and return the square root of x.
 
 ```
 int mySqrt(int x) {
-	long long int left = 0, right = x, res;
-	while (left <= right){
-		long long int middle = left + (right - left) / 2, square = middle * middle;
-		if (square == x)
-			return middle;
-		else if (square < x){
-			res = middle;
-			left = middle + 1;
-		}
-		else
-			right = middle - 1;
+    if (x == 1){
+		return 1;
 	}
-	return res;
+	long left = 0, right = x;
+	while (left + 1 < right){
+		long mid = left + (right - left) / 2;
+		if (mid * mid == x){
+			return mid;
+		}
+		else if (mid * mid < x){
+			left = mid;
+		}
+		else{
+			right = mid;
+		}
+	}
+	return left;
 }
 ```

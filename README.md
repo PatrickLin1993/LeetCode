@@ -18,7 +18,8 @@
 |50|Pow(x, n)|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/50%20-%20Pow(x,%20n))|
 |66|Plus One|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/66%20-%20Plus%20One)|
 |69|Sqrt(x)|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/69%20-%20Sqrt(x))|
-|81|Search in Rotated Sorted Array II|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/81-%20Search%20in%20Rotated%20Sorted%20Array%20II)|
+|74|Search a 2D Matrix|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/74%20-%20Search%20a%202D%20Matrix)|
+|81|Search in Rotated Sorted Array II|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/81%20-%20Search%20in%20Rotated%20Sorted%20Array%20II)|
 |89|Gray Code|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/89%20-%20Gray%20Code)|
 |100|Same Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/100%20-%20Same%20Tree)|
 |101|Symmetric Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/101%20-%20Symmetric%20Tree)|
@@ -42,6 +43,7 @@
 |227|Basic Calculator II|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/227%20-%20Basic%20Calculator%20II)|
 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|
 |237|Delete Node in a Linked List|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/237%20-%20Delete%20Node%20in%20a%20Linked%20List)|
+|240|Search a 2D Matrix II|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/240%20-%20Search%20a%202D%20Matrix%20II)|
 |242|Valid Anagram|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/242%20-%20Valid%20Anagram)|
 |258|Add Digits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/258%20-%20Add%20Digits)|
 |279|Perfect Squares|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/279%20-%20Perfect%20Squares)|
