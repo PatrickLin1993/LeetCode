@@ -12,25 +12,22 @@ Here are few examples.
 
 ##Solution
 
-二分搜索
 ```cpp
 int searchInsert(vector<int>& nums, int target) {
-   if (nums.size() <= 0){
-		return 0;
+	int size = nums.size();
+	if (size == 0) {
+		return -1;
 	}
-	int low = 0, high = nums.size() - 1;
-	while (low < high){
-		int middle = low + (high - low) / 2;
-		if (nums[middle] == target){
-			return middle;
-		}
-		else if (nums[middle] > target){
-			high = middle - 1;
+	int left = 0, right = size - 1;
+	while (left + 1 < right) {
+		int mid = left + (right - left) / 2;
+		if (nums[mid] < target) {
+			left = mid;
 		}
 		else {
-			low = middle + 1;
+			right = mid;
 		}
 	}
-	return nums[low] >= target ? low : low + 1;
+	return (nums[left] >= target ? left : (nums[right] >= target ? right : right + 1));
 }
 ```

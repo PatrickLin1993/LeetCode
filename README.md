@@ -14,6 +14,7 @@
 |27|Remove Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/27%20-%20Remove%20Element)|
 |31|Next Permutation|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/31%20-%20Next%20Permutation)|
 |33|Search in Rotated Sorted Array|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/33%20-%20Search%20in%20Rotated%20Sorted%20Array)|
+|34|Search for a Range|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/34%20-%20Search%20for%20a%20Range)|
 |35|Search Insert Position|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/35%20-%20Search%20Insert%20Position)|
 |50|Pow(x, n)|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/50%20-%20Pow(x,%20n))|
 |66|Plus One|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/66%20-%20Plus%20One)|
@@ -30,6 +31,8 @@
 |136|Single Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/136%20-%20Single%20Number)|
 |141|Linked List Cycle|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/141%20-%20Linked%20List%20Cycle)|
 |146|LRU Cache|Hard|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/146%20-%20LRU%20Cache)|
+|153|Find Minimum in Rotated Sorted Array|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/153%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)|
+|154|Find Minimum in Rotated Sorted Array II|Hard|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/154%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)|
 |168|Excel Sheet Column Title|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/168%20-%20Excel%20Sheet%20Column%20Title)|
 |169|Majority Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/169%20-%20Majority%20Element)|
 |171|Excel Sheet Column Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/171%20-%20Excel%20Sheet%20Column%20Number)|
@@ -46,6 +49,7 @@
 |240|Search a 2D Matrix II|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/240%20-%20Search%20a%202D%20Matrix%20II)|
 |242|Valid Anagram|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/242%20-%20Valid%20Anagram)|
 |258|Add Digits|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/258%20-%20Add%20Digits)|
+|278|First Bad Version|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/278%20-%20First%20Bad%20Version)|
 |279|Perfect Squares|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/279%20-%20Perfect%20Squares)|
 |283|Move Zeroes|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/283%20-%20Move%20Zeroes)|
 |290|Word Pattern|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/290%20-%20Word%20Pattern)|
