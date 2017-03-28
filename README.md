@@ -33,6 +33,7 @@
 |146|LRU Cache|Hard|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/146%20-%20LRU%20Cache)|
 |153|Find Minimum in Rotated Sorted Array|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/153%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)|
 |154|Find Minimum in Rotated Sorted Array II|Hard|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/154%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)|
+|162|Find Peak Element|Medium|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/162%20-%20Find%20Peak%20Element)|
 |168|Excel Sheet Column Title|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/168%20-%20Excel%20Sheet%20Column%20Title)|
 |169|Majority Element|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/169%20-%20Majority%20Element)|
 |171|Excel Sheet Column Number|Easy|[Link](https://github.com/PatrickLin1993/LeetCode/tree/master/Algorithmn/171%20-%20Excel%20Sheet%20Column%20Number)|

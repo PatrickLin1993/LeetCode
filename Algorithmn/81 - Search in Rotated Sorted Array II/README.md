@@ -18,34 +18,36 @@ The array may contain duplicates.
 二分搜索，最坏情况退化 O(n)
 ```cpp
 bool search(vector<int>& nums, int target) {
-	if (nums.size() <= 0){
+    int size = nums.size();
+	if (size == 0) {
 		return false;
 	}
-	int low = 0, high = nums.size() - 1;
-	while (low < high){
-		int middle = low + (high - low) / 2;
-		if (nums[middle] == target){
+	int left = 0, right = size - 1;
+	while (left + 1 < right) {
+		int mid = left + (right - left) / 2;
+		if (nums[mid] == target) {
 			return true;
 		}
-		if (nums[low] < nums[middle]){
-			if (target >= nums[low] && target <= nums[middle])
-				high = middle - 1;
-			else
-				low = middle + 1;
+		if (nums[mid] < nums[right]) {
+			if (target >= nums[mid] && target <= nums[right]) {
+				left = mid;
+			}
+			else {
+				right = mid;
+			}
 		}
-		else if (nums[middle] < nums[high]){
-			if (target >= nums[middle] && target <= nums[high])
-				low = middle + 1;
-			else
-				high = middle - 1;
+		else if (nums[mid] > nums[right]) {
+			if (target >= nums[left] && target <= nums[mid]) {
+				right = mid;
+			}
+			else {
+				left = mid;
+			}
 		}
-		else{
-			if (nums[low] == nums[middle])
-				low++;
-			if (nums[high] == nums[middle])
-				high--;
+		else {
+			right--;
 		}
 	}
-	return nums[low] == target ? true : false;
+	return nums[left] == target || nums[right] == target;
 }
 ```

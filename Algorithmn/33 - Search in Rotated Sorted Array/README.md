@@ -12,29 +12,33 @@ You may assume no duplicate exists in the array.
 二分搜索
 ```cpp
 int search(vector<int>& nums, int target) {
-    if (nums.size() <= 0){
+    int size = nums.size();
+	if (size == 0) {
 		return -1;
 	}
-	int low = 0, high = nums.size() - 1;
-	while (low < high){
-		int middle = (high + low) / 2;
-
-		if (nums[middle] == target){
-			return middle;
+	int left = 0, right = size - 1;
+	while (left + 1 < right) {
+		int mid = left + (right - left) / 2;
+		if (nums[mid] == target) {
+			return mid;
 		}
-		else if (nums[low] <= nums[middle]){
-			if (target >= nums[low] && target <= nums[middle])
-				high = middle - 1;
-			else
-				low = middle + 1;
+		else if (nums[mid] >= nums[right]) {
+			if (target >= nums[left] && target <= nums[mid]) {
+				right = mid;
+			}
+			else {
+				left = mid;
+			}
 		}
-		else{
-			if (target >= nums[middle] && target <= nums[high])
-				low = middle + 1;
-			else
-				high = middle - 1;
+		else {
+			if (target >= nums[mid] && target <= nums[right]) {
+				left = mid;
+			}
+			else {
+				right = mid;
+			}
 		}
 	}
-	return nums[low] == target ? low : -1;
+    return nums[left] == target ? left : (nums[right] == target ? right : -1);
 }
 ```
