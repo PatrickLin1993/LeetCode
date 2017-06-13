@@ -1,4 +1,4 @@
-﻿##Binary Tree Level Order Traversal
+## Binary Tree Level Order Traversal
 
 Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).
 
@@ -21,7 +21,7 @@ return its level order traversal as:
 ]
 ```
 
-##Solution
+## Solution
 
 使用队列实现中序遍历：
 
