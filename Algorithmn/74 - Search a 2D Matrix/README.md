@@ -23,6 +23,8 @@ Given **target** = `3`, return `true`.
 
 二分法。
 
+>CPP
+
 ```
 bool searchMatrix(vector<vector<int>>& matrix, int target) {
     if (matrix.size() == 0 || matrix[0].size() == 0){
@@ -44,5 +46,39 @@ bool searchMatrix(vector<vector<int>>& matrix, int target) {
 		}
 	}
 	return  matrix[left / c][left % c] == target || matrix[right / c][right % c] == target;
+}
+```
+
+>Java
+
+```java
+public boolean searchMatrix(int[][] matrix, int target) {
+	 if (matrix == null || matrix.length == 0 || matrix[0] == null || matrix[0].length == 0){
+		 return false;
+	 }
+	 
+	 int left = 0;
+	 int right = matrix.length * matrix[0].length - 1;
+	 while (left + 1 < right){
+		 int mid = left + (right - left) / 2;
+		 int r = mid / matrix[0].length;
+		 int c = mid % matrix[0].length;
+		 if (matrix[r][c] == target){
+			 return true;
+		 }
+		 else if (matrix[r][c] < target){
+			 left = mid;
+		 }
+		 else{
+			 right = mid;
+		 }
+	 }
+	 if (matrix[left / matrix[0].length][left % matrix[0].length] == target){
+		 return true;
+	 }
+	 if (matrix[right / matrix[0].length][right % matrix[0].length] == target){
+		 return true;
+	 }
+	 return false;
 }
 ```

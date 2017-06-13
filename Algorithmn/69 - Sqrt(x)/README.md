@@ -8,6 +8,8 @@ Compute and return the square root of x.
 
 二分法。
 
+>CPP
+
 ```
 int mySqrt(int x) {
     if (x == 1){
@@ -27,5 +29,32 @@ int mySqrt(int x) {
 		}
 	}
 	return left;
+}
+```
+
+这里如果 `mid * mid == target` 溢出，可以变更为 `mid == target / mid`。
+
+>JAVA
+
+```java
+public int mySqrt(int x) {
+    if (x == 1){
+    	return 1;
+    }
+ 	int left = 0;
+ 	int right = x;
+ 	while (left + 1 < right){
+ 		int mid = left + (right - left) / 2;
+ 		if (mid == x / mid){
+ 			return mid;
+ 		}
+ 		else if (mid < x / mid){
+ 			left = mid;
+ 		}
+ 		else{
+ 			right = mid;
+ 		}
+ 	}
+ 	return left;
 }
 ```

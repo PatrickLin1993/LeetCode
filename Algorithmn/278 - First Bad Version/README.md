@@ -8,6 +8,8 @@ You are given an API `bool isBadVersion(version)` which will return whether `ver
 
 ##Solution
 
+>CPP
+
 ```cpp
 int firstBadVersion(int n) {
     if (n == 0) {
@@ -24,5 +26,27 @@ int firstBadVersion(int n) {
 		}
 	}
 	return isBadVersion(left) ? left : right;
+}
+```
+
+>JAVA
+
+```java
+public int firstBadVersion(int n) {
+    if (n == 0){
+    	return 0;
+    }
+    int left = 1;
+    int right = n;
+    while (left + 1 < right){
+    	int mid = left + (right - left) / 2;
+    	if (isBadVersion(mid)){
+    		right = mid;
+    	}
+    	else{
+    		left = mid;
+    	}
+    }
+    return isBadVersion(left) ? left : right;
 }
 ```
